@@ -1,0 +1,5 @@
+oscillation.py                   本题目的前三问，通过修改参数完成
+oscillation_plot.py          本题目前三问画图，可以通过部分注释的方式画出位置曲线和能量曲线
+gamma_roughly.py         本题目第四问，大致确定临界gamma范围
+gamma_precise.py          本题目第四问，精确确定临界gamma
+gamma_plot.py               本题目第四问画图，不同gamma位置曲线
